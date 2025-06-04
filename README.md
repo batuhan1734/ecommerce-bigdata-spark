@@ -1,4 +1,3 @@
-# ecommerce-bigdata-spark
 # E-Commerce Big Data Analysis with PySpark
 
 This repository contains the analysis of a large e-commerce dataset (October 2019) using Apache Spark and Hive on Google Cloud Platform (GCP). The analysis is designed to run on Dataproc clusters with Spark and Hive enabled.
